@@ -1,6 +1,6 @@
 ---
 title: "README"
-author: "Dennis Groves"
+author: "SiGhTfOrbACQ"
 date: "08/11/2014"
 output: html_document
 ---
