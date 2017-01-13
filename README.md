@@ -1,4 +1,5 @@
 ---
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/dennisgroves/The-Data-Scientist-s-Toolbox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 title: "README"
 author: "SiGhTfOrbACQ"
 date: "08/11/2014"
